@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7250fc59-db36-4bdb-b515-4eb7fd081f19": {
+      "ProjectGuid": "7250fc59-db36-4bdb-b515-4eb7fd081f19",
+      "DisplayName": "GenerateLicenseKey",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

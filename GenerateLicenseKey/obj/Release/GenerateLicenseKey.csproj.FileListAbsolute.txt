@@ -1,0 +1,11 @@
+D:\Tool C#\GenerateLicenseKey\GenerateLicenseKey\bin\Release\GenerateLicenseKey.exe.config
+D:\Tool C#\GenerateLicenseKey\GenerateLicenseKey\bin\Release\GenerateLicenseKey.exe
+D:\Tool C#\GenerateLicenseKey\GenerateLicenseKey\bin\Release\GenerateLicenseKey.pdb
+D:\Tool C#\GenerateLicenseKey\GenerateLicenseKey\obj\Release\GenerateLicenseKey.csproj.AssemblyReference.cache
+D:\Tool C#\GenerateLicenseKey\GenerateLicenseKey\obj\Release\GenerateLicenseKey.csproj.SuggestedBindingRedirects.cache
+D:\Tool C#\GenerateLicenseKey\GenerateLicenseKey\obj\Release\GenerateLicenseKey.Form1.resources
+D:\Tool C#\GenerateLicenseKey\GenerateLicenseKey\obj\Release\GenerateLicenseKey.Properties.Resources.resources
+D:\Tool C#\GenerateLicenseKey\GenerateLicenseKey\obj\Release\GenerateLicenseKey.csproj.GenerateResource.cache
+D:\Tool C#\GenerateLicenseKey\GenerateLicenseKey\obj\Release\GenerateLicenseKey.csproj.CoreCompileInputs.cache
+D:\Tool C#\GenerateLicenseKey\GenerateLicenseKey\obj\Release\GenerateLicenseKey.exe
+D:\Tool C#\GenerateLicenseKey\GenerateLicenseKey\obj\Release\GenerateLicenseKey.pdb
